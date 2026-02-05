@@ -1,0 +1,37 @@
+# SyntaxError
+
+# print(Hello, World!
+
+# SyntaxError: invalid syntax
+
+
+# File "main.py", line 1
+#     print(Hello, World!
+#                       ^
+# SyntaxError: invalid syntax
+
+
+# NameError
+
+# print(greetings)
+
+# NameError: name 'greetings' is not defined
+
+
+# greetings = 'Howdy 🤠'
+# print(greetings)
+
+# Output: Howdy 🤠
+
+
+# TypeError
+
+# message = 'The air quality is '
+# print(message + 28)
+
+# TypeError: can only concatenate str (not "int") to str
+
+# message = 'The air quality is '
+# print(message + str(28))
+
+# Output: The air quality is 28
