@@ -1,0 +1,7 @@
+# 🔢 NumPy, Pandas, SciPy for data analysis.
+# 📊 Matplotlib, Seaborn, Plotly for data visualization.
+# 🧠 Scikit-learn, TensorFlow for machine learning.
+# 🌐 Beautiful Soup for web scraping.
+# 👾 Pygame for mini-games.
+# 🤖 NLTK, OpenAI for chatbots.
+# 🛠️ OS, Requests for automation.
