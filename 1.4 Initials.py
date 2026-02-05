@@ -1,0 +1,5 @@
+print("EEEE  RRRR  IIII  K   K")
+print("E     R  R  IIII  K  K")
+print("EEEE  RRRR  IIII  K")
+print("E     R R   IIII  K K")
+print("EEEE  R  R  IIII  K   K")  
